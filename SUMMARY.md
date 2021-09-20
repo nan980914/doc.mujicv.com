@@ -7,4 +7,5 @@
 ## 📝 内容编写 <a id="markdown"></a>
 
 * [基础教程](markdown/basic.md)
+* [证件照插入常见问题](markdown/zheng-jian-zhao-cha-ru-chang-jian-wen-ti.md)
 
