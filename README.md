@@ -38,7 +38,7 @@
 
 ❓ **FAQ : 查看常见问题回答**
 
-{% page-ref page="question-and-answer.md" %}
+{% page-ref page="question-and-answer/" %}
 
 👫 **关于我们**
 
