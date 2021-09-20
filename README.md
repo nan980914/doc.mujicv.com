@@ -60,5 +60,5 @@
 
 群聊 🏃 :  
 
-![](.gitbook/assets/571771630763473_.pic%20%281%29.jpg)
+![](.gitbook/assets/image%20%282%29.png)
 
