@@ -29,7 +29,7 @@ description: "这里是「木及简历」的内容基础教程\U0001F4C3"
 「插入证件照」作为在写简历时一个强需求，为了能自定义图片的**位置和大小，**我们采用以下形式来插入证件照，只需把「src中的链接」替换为「自己的图片链接」然后插入markdown中任意位置即可。
 
 ```markup
-<img src="https://s3.qiufengh.com/muji/muji-zhengjian.jpg"
+<img src="https://s3.qiufeng.blue/muji/muji-zhengjian.jpg"
      style="position:absolute;width: 90px;top: 40px;right: 50px;"
 >
 ```
